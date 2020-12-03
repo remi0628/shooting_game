@@ -1,4 +1,6 @@
 # shooting_game
+高校3年生の夏休み課題で作成したゲームです。制作年：2017
+
 This is a game I made when I was in high school.
 Production time: 2017
 
@@ -12,6 +14,11 @@ Production time: 2017
 </p>  
 
 ### Small Fry Enemies stage /Medium Boss stage
+* 敵は雑魚敵です。しかし数が多いので注意が必要です。
+敵を倒すと青いアイテムを落とします。
+* 中ボスの存在です。攻撃時以外はプレイヤーからの攻撃を殻で跳ね返して通しません。  
+攻撃時には弱点が現れます。敵は弾を連射してくるので注意が必要です。
+
 * The enemies are small fry enemies. But be careful because they are many in number.  
 If you defeat the enemies, you'll get blue items.    
 * It is a medium boss existence. Except when it attacks, it does not pass through the attack by bouncing bullets from the player with its shell.  
