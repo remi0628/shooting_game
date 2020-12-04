@@ -1,4 +1,4 @@
-# shooting_game
+# Shooting Ggame
 高校3年生の夏休み課題で作成したゲームです。制作年：2017
 
 (This is a game I made when I was in high school.)  
@@ -32,7 +32,7 @@
 
 
 ### Boss stage  
-・メインボス  
+* メインボス  
 　側面からプレイヤーの方向に弾を打ちます。  
 　時にはライフルの様な構造部分からランダムにビームを放ちます。  
 　ライフルの内側からは3方向に弾を撃ち出します。  
@@ -52,32 +52,54 @@
 
 # system
 ## Shot Mode
-・敵を倒した際に落とす青いアイテムを獲得すると、自機から発射される弾の種類が変化し連射速度が上昇します  
-　左の画像：初期状態  
-　右の画像：青いアイテムを獲得し強化された状態  
+* 弾の撃ち方は2種類存在  
+・「T」：ボタンを一度押すと一発の弾を発射する。  
+・「R」：ボタンを押しっぱなしの時、自動で連射する。  
+ 一見撃ち方は「R」で良いように見えるがアイテムを獲得しないと非常に連射が遅い。  
+ 連射が強化された場合でも「T」の連打撃ちの方が早いかもしれない...？
+ 
+(・There are two ways to shoot a bullet)  
+(　"T": Press the button once to fire one bullet.)  
+(　"R": Hold down the button and it will fire automatically.)  
+(　At first glance, "R" seems to be a good way to shoot, but if you don't get the item, the continuous firing is very slow.)  
+(　Even if the continuous firing is enhanced, "T" continuous firing might be faster...?)
 
-(* If you acquire a blue item dropped by an enemy, the type of bullets fired from your ship will change and your continuous firing speed will increase.)  
+
+<p float="left">
+<img width="33" alt="スクリーンショット 2020-12-04 15 46 08" src="https://user-images.githubusercontent.com/16487150/101131035-fa02d680-3647-11eb-81f7-fca3eaa87e31.png">
+<img width="27" alt="スクリーンショット 2020-12-04 15 46 36" src="https://user-images.githubusercontent.com/16487150/101131038-fc653080-3647-11eb-9a57-b9a56d368bf9.png">
+</p>
+
+
+## Item
+* 敵からアイテムを獲得
+　敵を倒すと一定の確率で青くて丸いアイテムがドロップします。  
+ これを獲得する事によって自機の性能が強化されます。強化内容は以下に記載。  
+ 
+(・Win items from the enemy)  
+(　When you defeat an enemy, there is a certain probability of dropping a blue, round item.)  
+(　Acquiring these items will enhance your plane's performance. The details of the enhancements are listed below.)  
+  <img width="86" alt="アイテム" src="https://user-images.githubusercontent.com/16487150/101131809-3daa1000-3649-11eb-9fda-cf5ef86e692b.png">
+
+
+## Item Effect
+* 敵を倒した際に落とす青いアイテムを獲得すると、自機から発射される弾の種類が変化し連射速度が上昇します  
+・左の画像：初期状態  
+・右の画像：青いアイテムを獲得し強化された状態  
+
+(・If you acquire a blue item dropped by an enemy, the type of bullets fired from your ship will change and your continuous firing speed will increase.)  
 (　Image on the left : Initial state)  
 (　image on the right: the enhanced state that earned the blue items)  
 
 <p float="left">
 <img width="76" alt="スクリーンショット 2020-12-04 15 52 27" src="https://user-images.githubusercontent.com/16487150/101131585-e0ae5a00-3648-11eb-9acb-595079c39862.png">
 <img width="77" alt="スクリーンショット 2020-12-04 15 51 08" src="https://user-images.githubusercontent.com/16487150/101131465-ae046180-3648-11eb-914b-bdd299aed54d.png">
+bullet.
+
+<img width="60" alt="" src="https://user-images.githubusercontent.com/16487150/101132833-00df1880-364b-11eb-96c6-fe43c950d83d.png">
+<img width="45" alt="連射速度上昇" src="https://user-images.githubusercontent.com/16487150/101132834-02104580-364b-11eb-9516-14d846ddcb15.png">
+speed.
 </p>
-
-<p float="left">
-<img width="200" alt="" src="https://user-images.githubusercontent.com/16487150/87150311-c025e200-c2ec-11ea-8bae-03ca8e3a1c6b.png">
-<img width="200" alt="連射速度上昇" src="https://user-images.githubusercontent.com/16487150/87150418-f5cacb00-c2ec-11ea-81a3-f123526d65b2.png">
-</p>
-
-
-<img width="33" alt="スクリーンショット 2020-12-04 15 46 08" src="https://user-images.githubusercontent.com/16487150/101131035-fa02d680-3647-11eb-81f7-fca3eaa87e31.png">
-<img width="27" alt="スクリーンショット 2020-12-04 15 46 36" src="https://user-images.githubusercontent.com/16487150/101131038-fc653080-3647-11eb-9a57-b9a56d368bf9.png">
-
-
-## Item
-
-<img width="86" alt="アイテム" src="https://user-images.githubusercontent.com/16487150/101131809-3daa1000-3649-11eb-9fda-cf5ef86e692b.png">
 
 
 ## Gif  
