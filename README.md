@@ -1,4 +1,4 @@
-# Shooting Ggame
+# Shooting Ggame 
 高校3年生の夏休み課題で作成したゲームです。制作年：2017
 
 (This is a game I made when I was in high school.)  
