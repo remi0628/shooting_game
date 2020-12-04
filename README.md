@@ -6,14 +6,14 @@
 
 # ScreenShot  
 
-### start /game over /clear  
+## start /game over /clear  
 <p float="left">
   <img width="200" alt="スタート画面" src="https://user-images.githubusercontent.com/16487150/87143512-2b69b700-c2e1-11ea-89f7-b7bfebdd9527.png">
   <img width="200" alt="ゲームオーバー画面" src="https://user-images.githubusercontent.com/16487150/87148336-2f99d280-c2e9-11ea-83b6-eb5a5b4155e5.png">
   <img width="200" alt="クリア画面" src="https://user-images.githubusercontent.com/16487150/87148518-7c7da900-c2e9-11ea-8090-d18d329d26c1.png">
 </p>  
 
-### Small Fry Enemies stage /Medium Boss stage
+## Small Fry Enemies stage /Medium Boss stage
 * 雑魚敵(左画像)  
 　しかし数が多いので注意が必要です。  
 　敵を倒すと青いアイテムを落とします。
@@ -31,7 +31,7 @@
 </p>
 
 
-### Boss stage  
+## Boss stage  
 * メインボス  
 　側面からプレイヤーの方向に弾を打ちます。  
 　時にはライフルの様な構造部分からランダムにビームを放ちます。  
@@ -79,6 +79,7 @@
 (・Win items from the enemy)  
 (　When you defeat an enemy, there is a certain probability of dropping a blue, round item.)  
 (　Acquiring these items will enhance your plane's performance. The details of the enhancements are listed below.)  
+
   <img width="86" alt="アイテム" src="https://user-images.githubusercontent.com/16487150/101131809-3daa1000-3649-11eb-9fda-cf5ef86e692b.png">
 
 
