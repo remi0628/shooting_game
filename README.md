@@ -30,6 +30,7 @@
 <img width="300" alt="中ボス" src="https://user-images.githubusercontent.com/16487150/87148091-b7331180-c2e8-11ea-9f71-449cdaa6fbc3.png">
 </p>
 
+
 ### Boss stage  
 ・メインボス  
 　側面からプレイヤーの方向に弾を打ちます。  
@@ -58,10 +59,30 @@
 (* If you acquire a blue item dropped by an enemy, the type of bullets fired from your ship will change and your continuous firing speed will increase.)  
 (　Image on the left : Initial state)  
 (　image on the right: the enhanced state that earned the blue items)  
+
 <p float="left">
-<img width="200" alt="単発モード" src="https://user-images.githubusercontent.com/16487150/87150311-c025e200-c2ec-11ea-8bae-03ca8e3a1c6b.png">
-<img width="200" alt="スクリーンショット 2020-07-10 20 30 40" src="https://user-images.githubusercontent.com/16487150/87150418-f5cacb00-c2ec-11ea-81a3-f123526d65b2.png">
+<img width="76" alt="スクリーンショット 2020-12-04 15 52 27" src="https://user-images.githubusercontent.com/16487150/101131585-e0ae5a00-3648-11eb-9acb-595079c39862.png">
+<img width="77" alt="スクリーンショット 2020-12-04 15 51 08" src="https://user-images.githubusercontent.com/16487150/101131465-ae046180-3648-11eb-914b-bdd299aed54d.png">
 </p>
 
+<p float="left">
+<img width="200" alt="" src="https://user-images.githubusercontent.com/16487150/87150311-c025e200-c2ec-11ea-8bae-03ca8e3a1c6b.png">
+<img width="200" alt="連射速度上昇" src="https://user-images.githubusercontent.com/16487150/87150418-f5cacb00-c2ec-11ea-81a3-f123526d65b2.png">
+</p>
+
+
+<img width="33" alt="スクリーンショット 2020-12-04 15 46 08" src="https://user-images.githubusercontent.com/16487150/101131035-fa02d680-3647-11eb-81f7-fca3eaa87e31.png">
+<img width="27" alt="スクリーンショット 2020-12-04 15 46 36" src="https://user-images.githubusercontent.com/16487150/101131038-fc653080-3647-11eb-9a57-b9a56d368bf9.png">
+
+
 ## Item
-<img width="200" alt="スクリーンショット 2020-07-10 20 38 04" src="https://user-images.githubusercontent.com/16487150/87150598-5bb75280-c2ed-11ea-9fa1-bcd80cc8b4c5.png">
+
+<img width="86" alt="アイテム" src="https://user-images.githubusercontent.com/16487150/101131809-3daa1000-3649-11eb-9fda-cf5ef86e692b.png">
+
+
+## Gif  
+<img width="500" alt="雑魚敵" src="https://user-images.githubusercontent.com/16487150/101129414-da1de380-3644-11eb-98f5-943f78f62b3b.gif">
+
+<img width="500" alt="中ボス" src="https://user-images.githubusercontent.com/16487150/101129602-40a30180-3645-11eb-96de-82e84542a124.gif">
+
+<img width="500" alt="ボス" src="https://user-images.githubusercontent.com/16487150/101130741-629d8380-3647-11eb-92f1-bd01d2cf35f3.gif">
