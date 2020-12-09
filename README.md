@@ -1,8 +1,6 @@
 # Shooting Ggame 
 高校3年生の夏休み課題で作成したゲームです。制作年：2017
 
-(This is a game I made when I was in high school.)  
-(Production time: 2017)
 
 # ScreenShot  
 
@@ -21,10 +19,6 @@
 　攻撃時以外はプレイヤーからの攻撃を殻で跳ね返して通しません。  
 　攻撃時には弱点が現れます。敵は弾を連射してくるので注意が必要です。
 
-(・The enemies are small fry enemies. But be careful because they are many in number.)  
-(　If you defeat the enemies, you'll get blue items.)    
-(・It is a medium boss existence. Except when it attacks, it does not pass through the attack by bouncing bullets from the player with its shell.)  
-(　When he attacks, it is a weak point, but be careful because the enemy fires a series of bullets.)  
 <p float="left">
 <img width="300" alt="雑魚敵" src="https://user-images.githubusercontent.com/16487150/87147877-5c011f00-c2e8-11ea-8ccf-2da5c3814c16.png">
 <img width="300" alt="中ボス" src="https://user-images.githubusercontent.com/16487150/87148091-b7331180-c2e8-11ea-9f71-449cdaa6fbc3.png">
@@ -39,11 +33,6 @@
 　敵による弾幕には注意しましょう。  
 　ボスのHPはデフォルトで20に設定されています。  
 
-(・This is the main boss. From the side, it shoots bullets in the direction of your ship.)  
-(　A beam is randomly shot from a place like a rifle.)  
-(　From the inside of the rifle, he shoots bullets in three directions.)  
-(　Be careful of the barrage of bullets.)
-(　The HP of BOSS is 20 by default.)  
 <p float="left">
 <img width="300" alt="ボス" src="https://user-images.githubusercontent.com/16487150/87148281-185ae500-c2e9-11ea-90e8-cfe3f528ab5d.png">
 <img width="300" alt="ボス" src="https://user-images.githubusercontent.com/16487150/87149771-d0898d00-c2eb-11ea-952f-a1f0758dcfee.png">
@@ -56,13 +45,7 @@
 ・「T」：ボタンを一度押すと一発の弾を発射する。  
 ・「R」：ボタンを押しっぱなしの時、自動で連射する。  
  一見撃ち方は「R」で良いように見えるがアイテムを獲得しないと非常に連射が遅い。  
- 連射が強化された場合でも「T」の連打撃ちの方が早いかもしれない...？
- 
-(・There are two ways to shoot a bullet)  
-(　"T": Press the button once to fire one bullet.)  
-(　"R": Hold down the button and it will fire automatically.)  
-(　At first glance, "R" seems to be a good way to shoot, but if you don't get the item, the continuous firing is very slow.)  
-(　Even if the continuous firing is enhanced, "T" continuous firing might be faster...?)
+ 連射が強化された場合でも人によっては「T」の連打撃ちの方が早いかもしれません。
 
 
 <p float="left">
@@ -76,9 +59,6 @@
 　敵を倒すと一定の確率で青くて丸いアイテムがドロップします。  
  これを獲得する事によって自機の性能が強化されます。強化内容は以下に記載。  
  
-(・Win items from the enemy)  
-(　When you defeat an enemy, there is a certain probability of dropping a blue, round item.)  
-(　Acquiring these items will enhance your plane's performance. The details of the enhancements are listed below.)  
 
   <img width="86" alt="アイテム" src="https://user-images.githubusercontent.com/16487150/101131809-3daa1000-3649-11eb-9fda-cf5ef86e692b.png">
 
@@ -88,9 +68,6 @@
 ・左の画像：初期状態  
 ・右の画像：青いアイテムを獲得し強化された状態  
 
-(・If you acquire a blue item dropped by an enemy, the type of bullets fired from your ship will change and your continuous firing speed will increase.)  
-(　Image on the left : Initial state)  
-(　image on the right: the enhanced state that earned the blue items)  
 
 <p float="left">
 <img width="76" alt="スクリーンショット 2020-12-04 15 52 27" src="https://user-images.githubusercontent.com/16487150/101131585-e0ae5a00-3648-11eb-9acb-595079c39862.png">
